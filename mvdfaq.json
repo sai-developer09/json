@@ -1,0 +1,46 @@
+{
+  "Version": "1.0",
+  "iOSfaqs": [
+    {
+      "Q": "What kind of battery life can I get with LP7i (Sled) devices?",
+      "A": "<p>Tests have shown that the battery on the device lasts approximately 10000 continuous scans. The battery life on the iOS device varies depending on the model, the application, the brightness, etc.</p>"
+    },
+    {
+      "Q": "How long does it take to charge a device fully?",
+      "A": "<p>Since the LP7i Sleds have pass-through charging, the time it takes to charge varies depending on the iOS since different Apple products have various battery capacities.</p>"
+    },
+    {
+      "Q": "Can you charge both the iOS device as well as the LP7i Sled at the same time?",
+      "A": "<p>Yes, sleds can charge at the same time with pass-through charging. Plugging into the wall or the travel charger while the LP7i with the iPhone married, the unit will be charged simultaneously.</p>"
+    },
+    {
+      "Q": "Can Sled and iPhone share power?",
+      "A": "<p>Yes, when the MVD APP is in use and if the iPhone battery drops below 25%, the LP7i (Sled) will begin charging the iPhone. Alternatively, if the iPhone&rsquo;s Low Power mode is turned on and the MVD APP is in use, the LP7i (Sled) will begin to charge the iPhone.</p> <p><strong>How to turn on iPhone Low Power Mode:&nbsp;</strong>From the iPhone Home Screen click Settings &gt; Battery &gt; Toggle on Low Power Mode</p>"
+    },
+    {
+      "Q": "How can I view the battery life on the Sled?",
+      "A": "<p>Launch the IPCSupport APP from the iPhone home screen and wake the Sled up by pressing the scan button on the left or the right.Future releases of the MVD APP will have the ability to check the battery life of the Sled.</p>"
+    },
+    {
+      "Q": "The MVD APP and Sled is unresponsive and seems to be dead?",
+      "A": "<p>The Sled is designed to go into sleep mode after 90 minutes of inactivity. To wake the Sled, press the scan button and listen for the beep.</p>"
+    },
+    {
+      "Q": "The MVD APP shows a popup that states Device Connectivity?",
+      "A": "<p>When safety permits. Use the following steps to troubleshoot the device.</p><ol> <li>Check the status of the Sled battery from the IPCSupport APP</li> <li>Force close the MVD APP <ol style=\"list-style-type: lower-alpha;\"> <li>Press the circle home button on the iPhone</li> <li>Double click the home button on the iPhone to view the running apps</li> <li>Swipe upwards on the open screens to fully close out running apps</li> <li>Reopen the MVD APP,and sign in to begin the tour</li> </ol> </li> </ol>"
+    },
+    {
+      "Q": "What is Upload Session Data, and what is Pending?",
+      "A": "<p>Uploading session data on the MVD APP home screen is an indication that the device’s cellular data connection is currently offline. Pending is the number of recodes that will be stored locally until the cellular data connection is reestablished.</p><p>When safety permits, use the following steps to troubleshoot the manually reestablish the cellular data connection.</p><ol><li>Swipe up from the bottom of the iPhone screen</li> <li>Click the Airplane icon to turn on Airplane Mode (which will turn orange)</li> <li>Click the Airplane icon to turn off Airplane Mode</li> <li>Once this is done, the iPhone should have resolved the cellular data connection</ol></li>"
+    },
+    {
+      "Q": "Where can I find the Rail Operations Contact List to dial out to using the phone?",
+      "A": "<p>From the Home screen, click More > Contact List > choose the number you would like to call and click call at the bottom of the screen.</p>"
+    },
+    {
+      "Q": "How many times can I use the 2C-1 Form for a Zero Dollar Remittance within a day?",
+      "A": "<p>Your 2C-1 Form (Zero Dollar Remittance) should be submitted at the end of the day. Remittances can be submitted for the previous day by toggling the Start Date and End Date.</p>"
+    }
+  ]
+}
+
