@@ -1,6 +1,6 @@
 {
-    "version": "20250311",
-    "configurations": [
+    "version": "20250320",
+    "configurations": [ 
       {
         "sub_version": "20230620",
         "module": "peak_trains",
@@ -236,7 +236,8 @@
             { "rtno": "165", "loc": "PABT", "tarifftype": "Interstate" },
             { "rtno": "166", "loc": "PABT", "tarifftype": "Interstate" },
             { "rtno": "168", "loc": "PABT", "tarifftype": "Interstate" },
-	    { "rtno": "999", "loc": "PABT", "tarifftype": "Interstate } 
+	    { "rtno": "888", "loc": "PABT", "tarifftype": "Interstate" }
+	     
           ]
         }
       },
